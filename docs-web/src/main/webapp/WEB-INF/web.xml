@@ -5,11 +5,11 @@
          xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
          version="5.0"
          metadata-complete="true">
-  <display-name>Teedy</display-name>
+  <display-name>Rasheed Docs</display-name>
   
   <!-- Proper loader/unloader of ImageIO plugins -->
   <listener>
-    <display-name>ImageIO service provider loader/unloader</display-name>
+    <display-name>Rasheed Docs</display-name>
     <listener-class>com.sismics.util.listener.IIOProviderContextListener</listener-class>
   </listener>
 
